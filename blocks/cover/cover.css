@@ -1,17 +1,15 @@
 .cover {
-  margin: 0 auto 92px ;
+  margin: 0 auto 92px;
   align-items: center;
   width: 1184px;
   max-height: 740px;
-
-
 }
 
 
 @media (max-width: 2001px) {
   .cover {
     width: 100%;
-    height: calc(0.625 * 100vw)
+    height: calc(0.625 * 100vw);
   }
 }
 
