@@ -2,7 +2,6 @@
   margin-bottom: 80px;
   display: grid;
   grid-template-columns: 460px 1fr;
-  grid-template-rows: minmax(auto-fit) 1fr;
   gap: 48px 40px;
   box-sizing: border-box;
 }
