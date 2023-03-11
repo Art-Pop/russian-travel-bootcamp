@@ -6,7 +6,7 @@
 * Технологии grid и flex блоков.
 * БЭМ Nested
 
-Проект доступен для просмотра на [GitHub Pages]()
+Проект доступен для просмотра на [GitHub Pages](https://art-pop.github.io/russian-travel-bootcamp/)
 
 
 
