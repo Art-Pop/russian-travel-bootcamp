@@ -7,7 +7,6 @@
   text-rendering: optimizeLegibility;
 }
 
-
 @media screen and (max-width: 916px) {
   .places__title {
     font-size: 42px;
@@ -21,5 +20,4 @@
     line-height: 35px;
     margin: 0 16px;
   }
-
 }

@@ -4,8 +4,6 @@
   max-width: 100%;
   display: flex;
   justify-content: space-between;
-  box-sizing: border-box;
-
 }
 
 @media screen and (max-width: 1270px) {
@@ -13,13 +11,11 @@
     margin: 0 48px;
     padding-bottom: 48px;
   }
-
 }
 @media screen and (max-width: 948px) {
   .header {
     margin: 0 24px;
   }
-
 }
 
 @media screen and (max-width: 760px) {
@@ -27,5 +23,4 @@
     padding-top: 16px;
     margin: 0 16px;
   }
-
 }
